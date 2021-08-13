@@ -57,6 +57,7 @@ templates:
         - Token
         - Transaction
         - User
+        - LPTransferEntity
       abis:
         - name: Pair
           file: ../../node_modules/@sushiswap/core/build/abi/UniswapV2Pair.json
